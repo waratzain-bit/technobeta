@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://waratzain-bit.github.io/technobeta/sitemap.xml
+Sitemap: https://waratzain-bit.github.io/sitemap.xml
